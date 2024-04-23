@@ -15,9 +15,11 @@ let laterYears = myAage - 2;
 // 5.Multiply the laterYears variable by 4 to calculate the number of dog years accounted for by your later years. Use the multiplication assignment operator to multiply and assign in one step. 
 //Multiplying later years by 4
 laterYears *= 4;
-
+ 
 //6. If you’d like to check your work at this point, print earlyYears and laterYears to the console. Are the values that you expected? 
 
 //7. Add earlyYears and laterYears together, and store that in a variable named myAgeInDogYears .
 
 //8. Let’s use a string method next. Write your name as a string. Call its built-in method .toLowerCase() ,and store the result in a variable called myName. The toLowerCase method returns a string with all lowercase letters. 
+
+//9.Write a console.log statement that displays your name and age in dog years. Use string interpolation to display the value in the following sentence:“My name is NAME. I am HUMAN AGE years old in human years which is DOG AGE years old in dog years.” Replace NAME with myName, HUMAN AGE with myAge, and DOG AGE with myAgeInDogYEars in the sentence above. 
